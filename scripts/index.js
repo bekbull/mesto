@@ -20,12 +20,12 @@ const closeAdd = document.querySelector('#closeAddBtn');
 
 const initialCards = [
     {
-        name: 'Новенький',
-        link: 'https://sun9-35.userapi.com/REXbi8WvqGDWog8ss-jHgdCRNghOyrOZZxq31A/VjHUIQjW73c.jpg'
+        name: 'Шарын',
+        link: 'https://aboutkazakhstan.com/blog/wp-content/uploads/2010/10/charyn-canyon-kazakhstan-view-1.jpg'
     },
     {
         name: 'Урал',
-        link: 'https://sun9-46.userapi.com/hTqD64_ZxVoCanyFEKhvTbx24mlly7SReoeYnA/jaVucs1xlL0.jpg'
+        link: 'https://megaribolov.ru/images/siteimage/opisanie_vodoemov/opisanie_rek/reka_Ural.jpg'
     },
     {
         name: 'Челябинская область',
